@@ -1,0 +1,10 @@
+title: 我的技术博客
+description: 分享技术心得和教程
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
