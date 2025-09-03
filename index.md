@@ -13,6 +13,9 @@ nav_order: 1
 ## 相关教程
 1. [如何 GitHub MCP 服务器](/mcp/how-to-use-mcp-in-cherry-studio-of-github-mcp-server.html)
 
+
+## infinigen文档
+1、 [室内生成参数](/infinigen/indoor.md)
 <footer>
   © {{ site.time | date: "%Y-%m-%d" }}
 </footer>
